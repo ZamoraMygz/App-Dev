@@ -6,5 +6,5 @@ My First Repository
 
 **FROM NETFLIX**
 1. Penthouse: War in Life
-2. The Crown
+2. The Crowns
 3. Squid Game
