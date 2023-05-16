@@ -7,4 +7,4 @@ My First Repository
 **FROM NETFLIX**
 1. Penthouse: War in Life
 2. The Crown
-3. The Last of Us
+3. Squid Game
